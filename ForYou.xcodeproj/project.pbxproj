@@ -12,6 +12,7 @@
 		095D1B232DCDA01D00AAB567 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 095D1B222DCDA01D00AAB567 /* ContentView.swift */; };
 		095D1B252DCDA01E00AAB567 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 095D1B242DCDA01E00AAB567 /* Assets.xcassets */; };
 		095D1B282DCDA01E00AAB567 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 095D1B272DCDA01E00AAB567 /* Preview Assets.xcassets */; };
+		095D1B382DCDAB4D00AAB567 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 095D1B372DCDAB4D00AAB567 /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		095D1B222DCDA01D00AAB567 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		095D1B242DCDA01E00AAB567 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		095D1B272DCDA01E00AAB567 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		095D1B372DCDAB4D00AAB567 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			isa = PBXGroup;
 			children = (
 				095D1B202DCDA01D00AAB567 /* ForYouApp.swift */,
+				095D1B372DCDAB4D00AAB567 /* SettingsView.swift */,
 				095D1B222DCDA01D00AAB567 /* ContentView.swift */,
 				095D1B242DCDA01E00AAB567 /* Assets.xcassets */,
 				095D1B262DCDA01E00AAB567 /* Preview Content */,
@@ -192,6 +195,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				095D1B382DCDAB4D00AAB567 /* SettingsView.swift in Sources */,
 				095D1B232DCDA01D00AAB567 /* ContentView.swift in Sources */,
 				095D1B212DCDA01D00AAB567 /* ForYouApp.swift in Sources */,
 			);
